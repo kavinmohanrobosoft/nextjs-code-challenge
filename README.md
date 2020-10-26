@@ -18,3 +18,10 @@ Fork this repo and create a app with next.js with [Stable Incremental Static Reg
 
 Your API key is: `85a2aee1a68b4ebea4ad678ef23576e3`
 http://newsapi.org/docs.
+
+
+## Steps to run the project
+
+- Clone the repo
+- Run the comment "yarn" and then "yarn dev"
+- Now you can check the project running at http://localhost:3000
