@@ -23,5 +23,6 @@ http://newsapi.org/docs.
 ## Steps to run the project
 
 - Clone the repo
+- Run the comment "git checkout kavin"
 - Run the comment "yarn" and then "yarn dev"
 - Now you can check the project running at http://localhost:3000
